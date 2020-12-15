@@ -1,7 +1,7 @@
 package hello
 
 var (
-	version = "5.0.15"
+	version = "5.0.17"
 )
 
 func Version() string {
